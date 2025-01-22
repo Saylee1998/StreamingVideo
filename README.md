@@ -5,7 +5,10 @@ This is a simple video streaming app that allows you to upload, watch, and strea
 ## Features
 
 - **Upload Videos**: Upload video files to the server.
-- **Watch Videos**: Stream videos directly from the server in an interactive video player.
+- **Watch Videos**: Stream videos directly from the server in an interactive 
+video player.
+
+- **Adaptive Streaming**: Videos are encoded and streamed using the HLS (HTTP Live Streaming) format, providing an adaptive video quality experience based on the user's network speed.
 
 ## Technologies Used
 
